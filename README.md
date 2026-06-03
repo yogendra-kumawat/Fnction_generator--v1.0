@@ -141,7 +141,6 @@ Navigation uses two buttons:
 - **SELECT\_2** (`EXTI3`) — confirm / enter submenu (toggle `select2`)
 ## display overview
 <img width="400" height="225" alt="WhatsApp Video 2026-06-03 at 1 54 03 PM" src="https://github.com/user-attachments/assets/6116fe94-ce2e-4ae8-816e-3183127bfa71" />
-## pwm control
 <img width="400" height="225" alt="WhatsApp Video 2026-06-03 at 1 50 50 PM" src="https://github.com/user-attachments/assets/5aeb9037-2c02-4576-ba21-5775c3f00c33" />
 
 ---
