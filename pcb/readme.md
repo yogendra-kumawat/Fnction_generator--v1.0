@@ -7,9 +7,7 @@
 | Substrate | Single-sided FR2 copper-clad |
 | Fabrication | Toner-transfer chemical etch|
 | Copper layer | 1 (bottom) |
-| Board size | ~100 × 55 mm (approximate) |
-| Holes | ~80+ — drilled by hand |
-| Finish | Bare copper (no HASL / ENIG) |
+| Board size | (90x45 mm) |
 
 <br>
 
@@ -17,10 +15,9 @@
 
 ## Toner Transfer Etch Process
 
-```
 1. Print copper layer (mirrored) 
 
-2. Cut copper-clad board to size(45x90 mm), clean surface with fine sandpaper + acetone
+2. Cut copper-clad board to size(90x45 mm), clean surface with fine sandpaper + acetone
 
 3. Place paper face-down on copper, press firmly with clothes iron
    Temperature : ~180 °C
@@ -47,7 +44,7 @@
 <img width="1600" height="1204" alt="WhatsApp Image 2026-07-17 at 7 25 27 PM" src="https://github.com/user-attachments/assets/3b9bcfbc-2526-41c3-b695-f538d3b912ef" />
 
 9. Dry, inspect continuity with multimeter
-```
+---
 
 > **Tip:** Warm FeCl₃ (~40 °C) etches 2× faster and gives cleaner trace edges. A plastic container on a hot plate works fine.
 
@@ -107,6 +104,7 @@ No PCB drill press — so one was built.
 - I²C header (GND / VCC / SCL / SDA) — for SSD1306 OLED
 - extra I²C port for future use
 - STM32 Blue Pill debugging wires via male pin headers
+- other useful pin headers
 <br>
 
 <img width="1200" height="1600" alt="WhatsApp Image 2026-07-17 at 7 32 57 PM (2)" src="https://github.com/user-attachments/assets/bfe6c3fa-7b08-48e9-a1b2-b11f86e060f0" />
