@@ -31,7 +31,7 @@
 <img width="1200" height="1600" alt="WhatsApp Image 2026-07-17 at 7 32 57 PM" src="https://github.com/user-attachments/assets/5c30cbe3-6242-4ca9-9831-ac7e69580e40" />
 
 6. Submerge in FeCl₃ (ferric chloride) solution
-   Time : 15–30 min depending on solution temperature
+   Time : 15–30 min depending on solution temperature and
    stair the solution for fast etching
 
 <img width="400" height="225" alt="WhatsApp Video 2026-07-18 at 9 00 03 AM" src="https://github.com/user-attachments/assets/329aff01-548d-4e3b-8311-94e956f8257c" />
