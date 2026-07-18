@@ -53,17 +53,6 @@ This project is a **portable open-source Function_generator** built around the S
    └─────────────┘
 ```
 
-## Battery IC
-
-<img width="746" height="360" alt="image" src="https://github.com/user-attachments/assets/482b9a10-772b-4144-b45c-be53a566b9e6" />
-
-## Controller Regulator
-
-<img width="544" height="317" alt="image" src="https://github.com/user-attachments/assets/dcc41ac5-b95d-4321-bfda-617e66328937" />
-
-## Full Circuit
-
-<img width="466" height="341" alt="image" src="https://github.com/user-attachments/assets/5cd9beef-68f7-453a-b8dc-805cf51b11f8" />
 
 ---
 
@@ -90,7 +79,6 @@ This project is a **portable open-source Function_generator** built around the S
 | Battery Voltage | 3.7 V nominal |
 | Regulated Output | 3.3 V / 5 V |
 | Max Charge Current | 500 mA (configurable) |
-| Standby Quiescent Current | < 1 µA (regulator disabled) |
 | MCU | STM32F103 @ 48 MHz (HSE × PLL ×6) |
 | ADC Resolution | 12-bit (0–4095) |
 | ADC Channels | ADC1 — CH0 (coarse), ADC2 — CH1 (fine) |
