@@ -28,7 +28,7 @@
 
 5. Inspect under light — touch up any broken traces with a permanent marker
 
-<img width="1200" height="1600" alt="WhatsApp Image 2026-07-17 at 7 32 57 PM" src="https://github.com/user-attachments/assets/5c30cbe3-6242-4ca9-9831-ac7e69580e40" />
+<img width="300" height="400" alt="WhatsApp Image 2026-07-17 at 7 32 57 PM" src="https://github.com/user-attachments/assets/5c30cbe3-6242-4ca9-9831-ac7e69580e40" />
 
 6. Submerge in FeCl₃ (ferric chloride) solution
    Time : 15–30 min depending on solution temperature and
@@ -41,7 +41,7 @@
 
 8. Rinse thoroughly, strip toner with acetone
 
-<img width="1600" height="1204" alt="WhatsApp Image 2026-07-17 at 7 25 27 PM" src="https://github.com/user-attachments/assets/3b9bcfbc-2526-41c3-b695-f538d3b912ef" />
+<img width="400" height="301" alt="WhatsApp Image 2026-07-17 at 7 25 27 PM" src="https://github.com/user-attachments/assets/3b9bcfbc-2526-41c3-b695-f538d3b912ef" />
 
 9. Dry, inspect continuity with multimeter
 ---
@@ -73,7 +73,7 @@ No PCB drill press — so one was built.
     0.8 mm Carbide Drill Bit
 ```
 
-<img width="1200" height="1600" alt="WhatsApp Image 2026-07-17 at 7 33 01 PM" src="https://github.com/user-attachments/assets/dc43e74f-8049-45c5-b62d-ec2755d81ce8" />
+<img width="300" height="400" alt="WhatsApp Image 2026-07-17 at 7 33 01 PM" src="https://github.com/user-attachments/assets/dc43e74f-8049-45c5-b62d-ec2755d81ce8" />
 
 
 
@@ -107,9 +107,10 @@ No PCB drill press — so one was built.
 - other useful pin headers
 <br>
 
-<img width="1200" height="1600" alt="WhatsApp Image 2026-07-17 at 7 32 57 PM (2)" src="https://github.com/user-attachments/assets/bfe6c3fa-7b08-48e9-a1b2-b11f86e060f0" />
-<img width="1600" height="1204" alt="WhatsApp Image 2026-07-17 at 7 25 34 PM" src="https://github.com/user-attachments/assets/7a10e065-fcbc-4eab-92a7-5fd67050563a" />
-<img width="1600" height="1204" alt="WhatsApp Image 2026-07-17 at 7 25 36 PM" src="https://github.com/user-attachments/assets/691ad01c-ff19-4ca1-a4e9-4f2a340b9602" />
+<img width="948" height="498" alt="image" src="https://github.com/user-attachments/assets/d992fa26-cc8f-4dc7-bd14-3cccc4d926c3" />
+<br>
+<img width="400" height="301" alt="WhatsApp Image 2026-07-17 at 7 25 34 PM" src="https://github.com/user-attachments/assets/7a10e065-fcbc-4eab-92a7-5fd67050563a" />
+<img width="400" height="301" alt="WhatsApp Image 2026-07-17 at 7 25 36 PM" src="https://github.com/user-attachments/assets/691ad01c-ff19-4ca1-a4e9-4f2a340b9602" />
 
 
 
